@@ -1,0 +1,13 @@
+def linearsearchproduct(product list,target product):
+  indices = []
+  fir index,product in
+enumerateproduct list):
+  if product == target product:
+    indices append(index)
+    returnn indices
+# example output
+product = {"shoes","boot","loafer","shoes","sandals","shoes"}
+target ="shoes"
+target2 ="apple"
+result =linearsearchproduct(product,target2)
+print(result)
